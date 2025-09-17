@@ -1,0 +1,21 @@
+{
+  "name": "actividad_clase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasRios29/Actividad_Clase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasRios29/Actividad_Clase/issues"
+  },
+  "homepage": "https://github.com/LucasRios29/Actividad_Clase#readme"
+}
